@@ -1,0 +1,13 @@
+# created by virtualenv automatically
+.gitignore
+/bin
+/lib
+/share
+pyvenv.cfg
+/.idea
+Algorithms/.gitignore
+Algorithms/.idea/.gitignore
+Algorithms/.idea/Algorithms.iml
+Algorithms/.idea/inspectionProfiles/profiles_settings.xml
+Algorithms/.idea/misc.xml
+Algorithms/.idea/modules.xml
